@@ -11,7 +11,7 @@
   "engines": {
     "atom": ">0.50.0"
   },
-  "readme": "# Indico UI\n\n### A dark UI theme for [Atom](https://atom.io/packages/indico-ui) based on Predawn UI.\n\n## Installation\n\nEither, search for it in the Packages section in you Atom settings tab. Or from the command-line run:\n\n  apm install predawn-ui\n\nAlso, view on Atom.io at http://atom.io/packages/indico-ui\n\n## Syntax Theme\nYou should also install the accompanying syntax theme, called [**indico-syntax**](https://github.com/IndicoDataSolutions/indico-syntax)."
+  "readme": "# Indico UI\n\n### A dark UI theme for [Atom](https://atom.io/packages/indico-ui) based on Predawn UI.\n\n## Installation\n\nEither, search for it in the Packages section in you Atom settings tab. Or from the command-line run:\n\n  apm install predawn-ui\n\nAlso, view on Atom.io at http://atom.io/packages/indico-ui\n\n## Syntax Theme\nYou should also install the accompanying syntax theme, called [**indico-syntax**](https://github.com/IndicoDataSolutions/indico-syntax).",
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/IndicoDataSolutions/indico-ui/issues"
