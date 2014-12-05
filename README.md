@@ -2,6 +2,8 @@
 
 ### A dark UI theme for [Atom](https://atom.io/packages/indico-ui) based on Predawn UI.
 
+![indico-ui image](http://i.imgur.com/eZ3rkwb.png)
+
 ## Installation
 
 Either, search for it in the Packages section in you Atom settings tab. Or from the command-line run:
