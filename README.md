@@ -8,7 +8,7 @@
 
 Either, search for it in the Packages section in you Atom settings tab. Or from the command-line run:
 
-	apm install predawn-ui
+	apm install indico-ui
 
 Also, view on Atom.io at http://atom.io/packages/indico-ui
 
